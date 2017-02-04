@@ -1,0 +1,86 @@
+.wrapper{
+	border: 2px solid red;
+}
+
+.header{
+	border: 2px solid red;
+	height: 100px;
+	margin-left: 28px;
+}
+
+.logo{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 33%;
+}
+.menu{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 33%;
+}
+.signlog{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 30%;
+}
+
+.first{
+	border: 2px solid red;
+	height: 120px;
+	margin-left: 10px;
+}
+
+.one{
+	border: 2px solid red;
+	display: inline-block;
+	height: 120px;
+	width: 49%;
+}
+
+.second{
+	border: 2px solid red;
+	height: 150px;
+	margin-left: 20px;
+}
+
+.two{
+	border: 2px solid red;
+	display: inline-block;
+	height: 150px;
+	width: 24%;
+}
+
+.third{
+	border: 2px solid red;
+	height: 100px;
+	margin-left: 25px;
+}
+
+.three{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 32%;
+}
+
+.footer{
+	border: 2px solid red;
+	height: 100px;
+	margin-left: 14px;
+}
+
+.contact{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 49%;
+}
+.maps{
+	border: 2px solid red;
+	display: inline-block;
+	height: 100px;
+	width: 49%;
+}
